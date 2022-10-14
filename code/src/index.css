@@ -92,7 +92,18 @@ a {
   border: none;
 }
 
-.link-back svg {
+.test {
+  border: 2px solid hotpink;
+}
+
+.back-button {
+  width: 30px;
+  height: 30px;
+}
+
+
+.link-back img {
+  height: 30px;
   width: 30px;
   transition: margin-right 0.2s ease-in-out;
 }
