@@ -96,13 +96,13 @@ a {
   border: 2px solid hotpink;
 }
 
-.back-button {
+.back-icon {
   width: 30px;
   height: 30px;
+  border: 1px red solid;
 }
 
-
-.link-back img {
+/* .link-back img {
   height: 30px;
   width: 30px;
   transition: margin-right 0.2s ease-in-out;
@@ -110,7 +110,7 @@ a {
 
 .link-back:hover svg {
   margin-right: 5px;
-}
+} */
 
 .details-summary {
   display: flex;
